@@ -1,6 +1,6 @@
 # Fit Club
 
-![Design preview for the Clipboard landing page coding challenge](./src/fitclub.png)
+![Design WEB and Mobile](./src/gym-app.png)
 
 
 ## Welcome! 👋
